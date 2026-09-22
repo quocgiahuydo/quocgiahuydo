@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Harry Do
+- 👋 Hi, I’m Quoc (Harry) Do
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Python, Java, and C++
 - 💞️ I’m looking to collaborate on fullstack development, software development, Cloud Architect
